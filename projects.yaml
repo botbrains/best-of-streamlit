@@ -661,4 +661,9 @@ projects:
     github_id: RasaHQ/NLU-training-data
     category: nlp
     show: True
-
+  - name: AI Casino Recommender
+    homepage: https://casino.streamlit.app
+    image: https://github.com/botbrains/Casino-Recommender/blob/main/slots.png
+    github_id: botbrains/Casino-Recommender
+    category: non-ml
+    show: True
